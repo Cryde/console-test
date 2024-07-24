@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [v1.6.0](https://github.com/zenstruck/console-test/releases/tag/v1.6.0)
+
+July 24th, 2024 - [v1.5.0...v1.6.0](https://github.com/zenstruck/console-test/compare/v1.5.0...v1.6.0)
+
+* f727837 feat: add `assertFaulty` assertion (#21) by @raphaelstolt
+* 0625e55 chore: keep releases lean (#20) by @raphaelstolt
+
 ## [v1.5.0](https://github.com/zenstruck/console-test/releases/tag/v1.5.0)
 
 October 24th, 2023 - [v1.4.0...v1.5.0](https://github.com/zenstruck/console-test/compare/v1.4.0...v1.5.0)
