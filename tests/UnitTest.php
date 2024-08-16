@@ -222,7 +222,7 @@ final class UnitTest extends TestCase
             $this->markTestSkipped('Command completion not available.');
         }
 
-        $command = TestCommand::for(new class() extends Command {
+        $command = TestCommand::for(new class extends Command {
             public function getName(): string
             {
                 return 'my:command';
@@ -272,7 +272,7 @@ final class UnitTest extends TestCase
             $this->markTestSkipped('Using InputArgument/Option for defining suggestions requires 6.1+.');
         }
 
-        $command = TestCommand::for(new class() extends Command {
+        $command = TestCommand::for(new class extends Command {
             public function getName(): string
             {
                 return 'my:command';
