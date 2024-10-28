@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [v1.6.1](https://github.com/zenstruck/console-test/releases/tag/v1.6.1)
+
+October 28th, 2024 - [v1.6.0...v1.6.1](https://github.com/zenstruck/console-test/compare/v1.6.0...v1.6.1)
+
+* a90833d fix: Allow falsy values to be passed to addOption and to the command execution (#23) by @TristanPouliquen
+
 ## [v1.6.0](https://github.com/zenstruck/console-test/releases/tag/v1.6.0)
 
 July 24th, 2024 - [v1.5.0...v1.6.0](https://github.com/zenstruck/console-test/compare/v1.5.0...v1.6.0)
